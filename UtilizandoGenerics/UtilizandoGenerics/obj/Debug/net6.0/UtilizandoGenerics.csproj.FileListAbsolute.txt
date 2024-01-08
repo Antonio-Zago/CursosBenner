@@ -1,0 +1,15 @@
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\bin\Debug\net6.0\UtilizandoGenerics.exe
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\bin\Debug\net6.0\UtilizandoGenerics.deps.json
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\bin\Debug\net6.0\UtilizandoGenerics.runtimeconfig.json
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\bin\Debug\net6.0\UtilizandoGenerics.dll
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\bin\Debug\net6.0\UtilizandoGenerics.pdb
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\obj\Debug\net6.0\UtilizandoGenerics.csproj.AssemblyReference.cache
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\obj\Debug\net6.0\UtilizandoGenerics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\obj\Debug\net6.0\UtilizandoGenerics.AssemblyInfoInputs.cache
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\obj\Debug\net6.0\UtilizandoGenerics.AssemblyInfo.cs
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\obj\Debug\net6.0\UtilizandoGenerics.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\obj\Debug\net6.0\UtilizandoGenerics.dll
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\obj\Debug\net6.0\refint\UtilizandoGenerics.dll
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\obj\Debug\net6.0\UtilizandoGenerics.pdb
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\obj\Debug\net6.0\UtilizandoGenerics.genruntimeconfig.cache
+D:\Meus Projetos\UtilizandoGenerics\UtilizandoGenerics\obj\Debug\net6.0\ref\UtilizandoGenerics.dll
